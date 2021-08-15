@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Collections;
 
-@CrossOrigin("http://localhost:3000")
+@CrossOrigin("https://vidu-clone.herokuapp.com/")
 @RestController
 
 public class MovieController {
