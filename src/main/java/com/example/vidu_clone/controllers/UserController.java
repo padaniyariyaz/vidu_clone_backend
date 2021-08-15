@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Collections;
 
-@CrossOrigin("https://vidu-clone1.herokuapp.com")
+@CrossOrigin("http://localhost:3000")
 @Controller
 public class UserController {
 
