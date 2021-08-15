@@ -11,7 +11,7 @@ import org.springframework.security.authentication.BadCredentialsException;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.web.bind.annotation.*;
 
-@CrossOrigin("http://localhost:3000/")
+@CrossOrigin("http://localhost:3000")
 @RestController
 public class AuthController {
 
